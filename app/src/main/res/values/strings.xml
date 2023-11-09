@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clasee</string>
+    <string name="entry_label">Ingrese su nombre</string>
+    <string name="greetings">Daniel Simbania</string>
+    <string name="button">Saludar</string>
+    <string name="greet">Saludos</string>
+    <string name="mr">Sr.</string>
+    <string name="sr">Sra.</string>
+</resources>
